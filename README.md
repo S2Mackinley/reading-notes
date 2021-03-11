@@ -15,6 +15,10 @@
 
 My Name is _Elijah_ _Prom_.
 
+In this repo you will find all my notes from each course here at CodeFellows.
+
+<br>
+
 ~~I Need 5 things of styling~~
 
 A wise Software Dev once told me
